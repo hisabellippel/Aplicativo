@@ -3,6 +3,24 @@ body{
 }
 
 
-img{
-    width: 50px;
+.image{
+    display: flex;
+    padding: 5px;
+    align-items: center;
+}
+
+.im{
+    padding-left: 200px;
+}
+
+.preta{
+    color: aliceblue;
+    background-color: rgb(7, 7, 7);
+    padding: 15px;
+    padding-bottom: 15px;
+    border-radius: 15px;
+}
+
+.flex{
+    display: flex;
 }
